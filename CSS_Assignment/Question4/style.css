@@ -1,0 +1,174 @@
+.button1,.button2,.button3,.button4,.button5,.button6,.disable{
+    width: 100px;
+    height: auto;
+    border-radius: 0;
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+.button1{
+    background-color: tomato;
+    color: white;
+}
+.button1:hover, .button2:hover, .button3:hover, .button4:hover, .button5:hover, .button6:hover{
+    cursor:pointer;
+    background-color: gainsboro;
+}
+
+.button2{
+    background-color: lightseagreen;
+    color: white;
+}
+.button3{
+    background-color: rgb(87, 246, 87);
+    color: white;
+}
+.button4{
+    background-color: yellow;
+    color: black;
+}
+.button5{
+    background-color: blue;
+    color: white;
+}
+.button6{
+    background-color: black;
+    color: white;
+}
+.disable{
+    background-color: gainsboro;
+    color: white;
+}
+.disable:hover{
+    cursor: not-allowed;
+    background-color: rgb(245, 248, 247);
+}
+.shape1{
+    width: 100px;
+    height: auto;
+    border-radius: 0;
+    font-size: large;
+}
+.shape2{
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    font-size: large;
+    background-color: gray;
+    color: black;
+}
+.shape3{
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    font-size: large;
+    border-color: blue;
+    background-color: white;
+    color: black;
+}
+.shape4{
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+    font-size: large;
+    border-color: red;
+    background-color: white;
+    color:red;
+}
+.shape5{
+    width: 100px;
+    height: auto;
+    border-radius: 12px;
+    font-size: large;
+    border-color:green;
+    background-color: white;
+    color: black;
+}
+.shape6
+{
+    width: 100px;
+    height: auto;
+    border-radius: 0;
+    font-size: large;
+    font-style: bold;
+    background-color:red;
+    color: white;
+    text-shadow: 20px;
+}
+.shape7{
+    width: 100px;
+    height: 40px;
+    border-radius: 0;
+    font-size: large;
+    background-color: black;
+    color:white;
+}
+
+.circle1{
+    background-color: black;
+    color: white;
+    border: 0;
+    padding: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+.circle2{
+    background-color: teal;
+    color: white;
+    border: 0;
+    padding: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+.circle3{
+    background-color:tomato;
+    color: white;
+    border: 0;
+    padding: 10px;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+.circle1:hover, .circle2:hover, .circle3:hover{
+    cursor: pointer;
+    background-color: gainsboro;
+}
+.buttons{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+.but1{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height:auto;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+.but2{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height:auto;
+    background-color: teal;
+    color: white;
+    font-size: large;
+}
+.but3{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height:auto;
+    background-color: tomato;
+    color: white;
+    font-size: large;
+}
+.but1:hover, .but2:hover, .but3:hover{
+    cursor: pointer;
+    background-color: gainsboro;
+}

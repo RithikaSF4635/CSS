@@ -1,0 +1,11 @@
+.wrapper{
+    width: 95%;
+    min-width: 450px;
+    max-width: 1200px;
+    background-color: aquamarine;
+    border:2px solid red;
+    border-width: thin medium thick 15px;
+    border-style: solid ridge dashed double;
+    border-color: blueviolet rosybrown yellowgreen maroon;
+    padding :5px;
+}
